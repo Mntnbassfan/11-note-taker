@@ -49,3 +49,5 @@ res.json(200)
 // function to delete notes
 
 });
+
+module.exports = tips;
